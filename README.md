@@ -3,7 +3,8 @@
 
 > A custom Convolutional Neural Network trained on 20 plant species, enhanced through regularization, fine-tuning, and advanced evaluation — achieving an AUC score of **0.9771**, surpassing the Teachable Machine baseline of **0.8963**.
 
-📓 **Google Colab Notebook:** [Open in Colab →](https://colab.research.google.com/drive/1TOvLPOl44HpLeaMng4UooyV_OJktsJKG?usp=sharing)
+📓 **Google Colab Notebook:** [Open in Colab →]
+(https://colab.research.google.com/drive/1aggYOZuz_zZPUjunDVZ3ADObkkMjWdep?usp=sharing)
 
 ---
 
